@@ -13,9 +13,9 @@
     --fw-reg: 400;
     --fw-bold: 700;
     
-    --clr-light: #fffafa;
-    --clr-dark: #000000;
-    --clr-accent: #7fffd4;
+    --clr-light: #fff;
+    --clr-dark: #303030;
+    --clr-accent: #16e0bd;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -295,11 +295,7 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-  background-image: url(<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
-  <iframe frameborder="0" height="100%" width="100%"
-    src="https://www.youtube.com/watch?v=gw9fKuymA0I&t=1130s">
-  </iframe>
-</div>);
+    background-image: url(../img/services-bg.jpg);
     background-size: cover;
     /* background-blend-mode: multiply; */
     color: var(--clr-light);
