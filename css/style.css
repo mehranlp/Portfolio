@@ -295,7 +295,6 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HyYpY69Zk6Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     background-image: url(../img/services-bg.jpg);
     background-size: cover;
     /* background-blend-mode: multiply; */
